@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GZipDeflateDemo", "GZipDeflateDemo\GZipDeflateDemo.csproj", "{7A55BE5A-ACF0-43D3-872B-C59C3FACCF88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A55BE5A-ACF0-43D3-872B-C59C3FACCF88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A55BE5A-ACF0-43D3-872B-C59C3FACCF88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A55BE5A-ACF0-43D3-872B-C59C3FACCF88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A55BE5A-ACF0-43D3-872B-C59C3FACCF88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD53633C-B8CE-488A-9369-62D5003E8E58}
+	EndGlobalSection
+EndGlobal
